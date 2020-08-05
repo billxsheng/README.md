@@ -1,5 +1,6 @@
 # Hey, I'm Bill!
 
-3B Engineering Student @ The University of Waterloo
+## About Me
+3B Management Engineering Student @ The University of Waterloo
 <br/>
 Software Engineering Intern @ NVIDIA
