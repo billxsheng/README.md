@@ -11,4 +11,4 @@
 <br/>
 💻&nbsp;&nbsp;&nbsp;&nbsp;Incoming Backend Engineering Intern @ Shopify
 <br/>
-💻&nbsp;&nbsp;&nbsp;&nbsp;Previously Software Engineering Intern @ NVIDIA
+✅&nbsp;&nbsp;&nbsp;&nbsp;Previously Software Engineering Intern @ NVIDIA
