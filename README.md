@@ -1,5 +1,3 @@
-# Hey, I'm Bill!
-
 <a href="https://billsheng.com">Portfolio<a/>
 <a href="https://linkedin.com/in/billxsheng">Linkedin<a/>
 <a href="https://billsheng.com/static/media/resume.379a2340.pdf">Resume<a/>
