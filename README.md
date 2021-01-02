@@ -5,8 +5,8 @@
 
   
 ## About Me
-🎓&nbsp;&nbsp;&nbsp;&nbsp;3B Management Engineering Student @ The University of Waterloo
+3B Management Engineering Student @ The University of Waterloo
 <br/>
-💻&nbsp;&nbsp;&nbsp;&nbsp;Backend Developer Intern @ Shopify
+Backend Developer Intern @ Shopify
 <br/>
-✅&nbsp;&nbsp;&nbsp;&nbsp;Previously Software Engineering Intern @ NVIDIA
+Previously Software Engineering Intern @ NVIDIA
