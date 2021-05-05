@@ -1,10 +1,10 @@
 <a href="https://billsheng.com">Portfolio<a/>
 <a href="https://linkedin.com/in/billxsheng">Linkedin<a/>
-<a href="https://billsheng.com/static/media/resume.379a2340.pdf">Resume<a/>
+<a href="https://billsheng.com/static/media/resume.d2128d53.pdf">Resume<a/>
 <a href="mailto:bxsheng@uwaterloo.ca">Email<a/>
 
   
 ## About Me
-- 3B Management Engineering Student @ The University of Waterloo
-- Backend Developer Intern @ Shopify
-- Previously Software Engineering Intern @ NVIDIA
+- 4A Management Engineering Student @ The University of Waterloo
+- Previously Backend Developer Intern @ Shopify (Winter 2021)
+- Previously Software Engineering Intern @ NVIDIA (Summer 2020)
