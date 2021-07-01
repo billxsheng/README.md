@@ -1,6 +1,5 @@
 <a href="https://billsheng.com">Portfolio<a/>
 <a href="https://linkedin.com/in/billxsheng">Linkedin<a/>
-<a href="https://billsheng.com/static/media/resume.d2128d53.pdf">Resume<a/>
 <a href="mailto:bxsheng@uwaterloo.ca">Email<a/>
 
   
