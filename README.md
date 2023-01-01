@@ -4,7 +4,7 @@
 
   
 ## About Me
-- University of Waterloo Management Engineering Class of 2022
+- University of Waterloo Engineering Class of 2022
 - Software Engineer @ Meta NYC
 - Previously:
   - Software Engineer Intern @ WhatsApp (Fall 2021) 
